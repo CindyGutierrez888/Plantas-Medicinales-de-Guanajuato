@@ -6,9 +6,9 @@ Este proyecto analiza un dataset recopilado en Juan Iturbide, Guanajuato, sobre 
 
 Algunos ejemplos de los gráficos generados:
 
-![Top 10 Plantas con más usos medicinales](imagenes/Top 10 Plantas con más usos medicinales.png)
+![Top 10 Plantas con más usos medicinales](imagenes/Top-10-Plantas-con-mas-usos-medicinales.png)
 
-![Relación Parte utilizada vs Modo de preparación (barras)](imagenes/Relación Parte utilizada vs Modo de preparación (barras).png)
+![Relación Parte utilizada vs Modo de preparación (barras)](imagenes/Relacion-Parte-utilizada-vs-Modo-de-preparacion-barras).png)
 
 Relación: Parte utilizada vs Modo de preparación
 
