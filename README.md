@@ -14,7 +14,7 @@ Relación: Parte utilizada vs Modo de preparación
 
 WordCloud de popularidad
 
-etc...
+etc....
 
 (El repositorio incluye un total de 7 gráficos con distintos enfoques del análisis.)
 
