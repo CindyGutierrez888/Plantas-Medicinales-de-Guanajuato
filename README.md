@@ -1,18 +1,20 @@
-# 🌱 Proyecto: Plantas medicinales en Juan Iturbide, Guanajuato
+# Proyecto: Plantas medicinales en Juan Iturbide, Guanajuato 🌱🌱🌱
 
 Este proyecto analiza un dataset recopilado en Juan Iturbide, Guanajuato, sobre plantas medicinales y sus usos. A partir de la información obtenida, se generaron visualizaciones que permiten entender mejor la diversidad, preparación y aplicaciones de estas plantas en la vida cotidiana.
 
-## 📊 Visualizaciones
+## Visualizaciones
 
 Algunos ejemplos de los gráficos generados:
 
-Plantas Medicinales más versatiles
+![Top 10 Plantas con más usos medicinales](imagenes/Top 10 Plantas con más usos medicinales.png)
 
-Enfermedades más recurrentes y curables por plantas.
+![Relación Parte utilizada vs Modo de preparación (barras)](imagenes/Relación Parte utilizada vs Modo de preparación (barras).png)
 
 Relación: Parte utilizada vs Modo de preparación
 
 WordCloud de popularidad
+
+etc...
 
 (El repositorio incluye un total de 7 gráficos con distintos enfoques del análisis.)
 
